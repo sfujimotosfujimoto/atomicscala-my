@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f257c850-ee42-4f23-8148-8ed887141bcd" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/House1.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/House2.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/House3.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/House4.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/House5.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex53.scala" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ProgrammingScala3rd/src/main/scala/Ch9.scala" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ProgrammingScala3rd/src/main/scala/Files.scala" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ProgrammingScala3rd/src/main/scala/FindLongLines.scala" />
@@ -1519,41 +1525,11 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/../../Electron/todos/node_modules/yauzl/index.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../../Electron/todos/node_modules/yauzl/package.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../../Electron/todos/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/Name.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myAtomicScala/src/main/scala/1-1.sc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myAtomicScala/src/main/scala/1-2.sc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myAtomicScala/src/main/scala/1-DataTypes.scala" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../ProgrammingScala3rd/src/main/scala/Rational.scala" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../JS/MongoDB/mongo-udemy/users" afterPath="$PROJECT_DIR$/../../JS/MongoDB/mongo-udemy/users" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Java/sprhb" afterPath="$PROJECT_DIR$/../../Java/sprhb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/AtomicScala.iml" afterPath="$PROJECT_DIR$/.idea/AtomicScala.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AbstractClasses.scala" afterPath="$PROJECT_DIR$/AbstractClasses.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AbstractKeyword.scala" afterPath="$PROJECT_DIR$/AbstractKeyword.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AuxiliaryInitialization.scala" afterPath="$PROJECT_DIR$/AuxiliaryInitialization.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Compiled.scala" afterPath="$PROJECT_DIR$/Compiled.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CompiledWithArgs.scala" afterPath="$PROJECT_DIR$/CompiledWithArgs.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Framework.scala" afterPath="$PROJECT_DIR$/Framework.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GreatApe2.scala" afterPath="$PROJECT_DIR$/GreatApe2.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GreatApe3.scala" afterPath="$PROJECT_DIR$/GreatApe3.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Level.scala" afterPath="$PROJECT_DIR$/Level.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Materials.scala" afterPath="$PROJECT_DIR$/Materials.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Polymorphism.scala" afterPath="$PROJECT_DIR$/Polymorphism.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Solid.scala" afterPath="$PROJECT_DIR$/Solid.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TraitBodies.scala" afterPath="$PROJECT_DIR$/TraitBodies.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TraitCollision.scala" afterPath="$PROJECT_DIR$/TraitCollision.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TraitInheritance.scala" afterPath="$PROJECT_DIR$/TraitInheritance.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UniformAccess.scala" afterPath="$PROJECT_DIR$/UniformAccess.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_AtomicTestErrors.txt" afterPath="$PROJECT_DIR$/_AtomicTestErrors.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex43.scala" afterPath="$PROJECT_DIR$/ex43.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex44.scala" afterPath="$PROJECT_DIR$/ex44.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex45.scala" afterPath="$PROJECT_DIR$/ex45.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex46.scala" afterPath="$PROJECT_DIR$/ex46.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex47.scala" afterPath="$PROJECT_DIR$/ex47.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex49.scala" afterPath="$PROJECT_DIR$/ex49.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex50.scala" afterPath="$PROJECT_DIR$/ex50.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex52.scala" afterPath="$PROJECT_DIR$/ex52.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ProgrammingScala3rd/src/main/scala/Summer.scala" afterPath="$PROJECT_DIR$/../ProgrammingScala3rd/src/main/scala/Summer.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ProgrammingScala3rd/src/main/scala/ch7.sc" afterPath="$PROJECT_DIR$/../ProgrammingScala3rd/src/main/scala/ch7.sc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ProgrammingScala3rd/src/main/scala/p1.sc" afterPath="$PROJECT_DIR$/../ProgrammingScala3rd/src/main/scala/p1.sc" />
@@ -1574,20 +1550,78 @@
       <file leaf-file-name="Polymorphism.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Polymorphism.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
+            <state relative-caret-position="1064">
               <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-              <folding>
-                <element signature="e#37#72#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ex52.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ex52.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ex52.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="153" column="29" lean-forward="true" selection-start-line="153" selection-start-column="29" selection-end-line="153" selection-end-column="29" />
+            <state relative-caret-position="310">
+              <caret line="141" column="36" lean-forward="false" selection-start-line="141" selection-start-column="36" selection-end-line="141" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="House1.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/House1.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="House2.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/House2.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="House3.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/House3.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="House4.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/House4.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="House5.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/House5.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex53.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ex53.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="24" column="32" lean-forward="true" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -1644,6 +1678,12 @@
         <option value="$PROJECT_DIR$/Solid.scala" />
         <option value="$PROJECT_DIR$/Polymorphism.scala" />
         <option value="$PROJECT_DIR$/ex52.scala" />
+        <option value="$PROJECT_DIR$/House1.scala" />
+        <option value="$PROJECT_DIR$/House2.scala" />
+        <option value="$PROJECT_DIR$/House3.scala" />
+        <option value="$PROJECT_DIR$/House4.scala" />
+        <option value="$PROJECT_DIR$/House5.scala" />
+        <option value="$PROJECT_DIR$/ex53.scala" />
       </list>
     </option>
   </component>
@@ -1721,7 +1761,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -2261,12 +2301,13 @@
       <updated>1498447234819</updated>
       <workItem from="1498447238876" duration="16254000" />
       <workItem from="1498482862899" duration="2241000" />
-      <workItem from="1498512795966" duration="827000" />
+      <workItem from="1498512795966" duration="882000" />
+      <workItem from="1498513712052" duration="1188000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19322000" />
+    <option name="totallyTimeSpent" value="20565000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2279,6 +2320,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="22" width="718" height="878" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -2301,7 +2343,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27236843" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="722" y="22" width="718" height="439" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27236843" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="722" y="22" width="718" height="439" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25591716" sideWeight="0.49473685" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.50980395" order="2" side_tool="true" content_ui="tabs" />
@@ -2331,13 +2373,26 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Polymorphism.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1083">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex52.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2679">
+          <caret line="141" column="36" lean-forward="false" selection-start-line="141" selection-start-column="36" selection-end-line="141" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Solid.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="e#37#72#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2345,9 +2400,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1083">
           <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-          <folding>
-            <element signature="e#37#72#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2355,7 +2408,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2371,9 +2423,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-          <folding>
-            <element signature="e#37#72#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2381,7 +2430,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2582,19 +2630,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="e#37#72#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Polymorphism.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
+        <state relative-caret-position="1064">
           <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-          <folding>
-            <element signature="e#37#72#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2602,14 +2645,61 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ex52.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="153" column="29" lean-forward="true" selection-start-line="153" selection-start-column="29" selection-end-line="153" selection-end-column="29" />
+        <state relative-caret-position="310">
+          <caret line="141" column="36" lean-forward="false" selection-start-line="141" selection-start-column="36" selection-end-line="141" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/House1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/House2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/House3.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/House4.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/House5.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex53.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="32" lean-forward="true" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
           <folding />
         </state>
       </provider>

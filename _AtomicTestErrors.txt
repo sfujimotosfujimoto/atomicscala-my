@@ -434,3 +434,9 @@ Solid2(47)[Error] expected:
 Solid(47)
 Wall drawing![Error] expected:
 Inert drawing!
+Main$$anon$1$Robot@2aae9190[Error] expected:
+Mobility(Legs), Vision(Visible Spectrum), Manipulator(Magnet)
+Main$$anon$1$Robot@77468bd9[Error] expected:
+Mobility(Treads), Vision(Infrared), Manipulator(Claw)
+Main$$anon$1$Robot@12bb4df8[Error] expected:
+Mobility(Propeller), Vision(UV), Manipulator(None)
