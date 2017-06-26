@@ -394,3 +394,43 @@ Riding.[Error] expected:
 Riding
 Riding.[Error] expected:
 Riding
+Main$$anon$1$Trip@77468bd9[Error] expected:
+From Detroit to Houston: 5/1/2012 to 6/1/2012
+Main$$anon$1$CarTrip@12bb4df8[Error] expected:
+From Boston to San Francisco: 6/1/2012 to 7/1/2012
+Vector(Roar)[Error] expected:
+Vector(Roar, Hello)
+On a flight from Detroit to London, we watched Superman[Error] expected:
+From Detroit to London: 9/1/1939 to 10/31/1939, we watched Superman
+From Boston to San Francisco: 6/1/2012 to 7/1/2012[Error] expected:
+From Boston to San Francisco: 6/1/2012 to 7/1/2012, we visited Vector(Albany, Buffalo, Cleveland, Columbus, Indianapolis, St. Louis, Kansas City, Denver, Grand Junction, Salt Lake City, Las Vegas, Bakersfield)
+On a flight from Detroit to London, we watched Superman[Error] expected:
+From Detroit to London: 9/1/1939 to 10/31/1939, we watched Superman
+From Boston to San Francisco: 6/1/2012 to 7/1/2012, we visitedVector(Boston, Albany, Buffalo, Cleveland, Columbus, Indianapolis, St. Louis, Kansas City, Denver, Grand Junction, Salt Lake City, Las Vegas, Bakersfield, San Francisco)[Error] expected:
+From Boston to San Francisco: 6/1/2012 to 7/1/2012, we visited Vector(Albany, Buffalo, Cleveland, Columbus, Indianapolis, St. Louis, Kansas City, Denver, Grand Junction, Salt Lake City, Las Vegas, Bakersfield)
+On a flight from Detroit to London, we watched Superman[Error] expected:
+From Detroit to London: 9/1/1939 to 10/31/1939, we watched Superman
+From Boston to San Francisco: 6/1/2012 to 7/1/2012, we visited Vector(Boston, Albany, Buffalo, Cleveland, Columbus, Indianapolis, St. Louis, Kansas City, Denver, Grand Junction, Salt Lake City, Las Vegas, Bakersfield, San Francisco)[Error] expected:
+From Boston to San Francisco: 6/1/2012 to 7/1/2012, we visited Vector(Albany, Buffalo, Cleveland, Columbus, Indianapolis, St. Louis, Kansas City, Denver, Grand Junction, Salt Lake City, Las Vegas, Bakersfield)
+On a flight from Detroit to London, we watched Superman[Error] expected:
+From Detroit to London: 9/1/1939 to 10/31/1939, we watched Superman
+11[Error] expected:
+12
+6[Error] expected:
+7
+Vector((0,Overflow), (1,High), (2,Medium), (3,Low), (4,Empty), (5,Draining), (6,Pooling), (7,Dry))[Error] expected:
+Vector((0,Overflow), (1,High), (2,Medium), (3,Low), (4,Empty))
+Vector(Overflow, High, Medium, Low, Empty, Draining, Pooling, Dry)[Error] expected:
+Vector(Overflow, High, Medium, Low, Empty)
+Alert: Empty[Error] expected:
+Alert
+Vector((0,Overflow), (1,High), (2,Medium), (3,Low), (4,Empty), (5,Draining), (6,Pooling), (7,Dry))[Error] expected:
+Vector((0,Overflow), (1,High), (2,Medium), (3,Low), (4,Empty))
+Vector(Overflow, High, Medium, Low, Empty, Draining, Pooling, Dry)[Error] expected:
+Vector(Overflow, High, Medium, Low, Empty)
+0[Error] expected:
+4
+Solid2(47)[Error] expected:
+Solid(47)
+Wall drawing![Error] expected:
+Inert drawing!
