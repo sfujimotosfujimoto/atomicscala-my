@@ -440,3 +440,97 @@ Main$$anon$1$Robot@77468bd9[Error] expected:
 Mobility(Treads), Vision(Infrared), Manipulator(Claw)
 Main$$anon$1$Robot@12bb4df8[Error] expected:
 Mobility(Propeller), Vision(UV), Manipulator(None)
+2[Error] expected:
+1
+false[Error] expected:
+true
+6[Error] expected:
+4
+false[Error] expected:
+true
+false[Error] expected:
+true
+false[Error] expected:
+true
+false[Error] expected:
+true
+6[Error] expected:
+0
+2[Error] expected:
+1
+false[Error] expected:
+true
+6[Error] expected:
+4
+false[Error] expected:
+true
+false[Error] expected:
+true
+false[Error] expected:
+true
+false[Error] expected:
+true
+6[Error] expected:
+0
+true[Error] expected:
+false
+false[Error] expected:
+true
+6[Error] expected:
+4
+false[Error] expected:
+true
+false[Error] expected:
+true
+false[Error] expected:
+true
+false[Error] expected:
+true
+6[Error] expected:
+0
+true[Error] expected:
+false
+false[Error] expected:
+true
+6[Error] expected:
+4
+false[Error] expected:
+true
+false[Error] expected:
+true
+false[Error] expected:
+true
+false[Error] expected:
+true
+6[Error] expected:
+0
+false[Error] expected:
+true
+5[Error] expected:
+4
+false[Error] expected:
+true
+false[Error] expected:
+true
+false[Error] expected:
+true
+false[Error] expected:
+true
+5[Error] expected:
+0
+false[Error] expected:
+true
+5[Error] expected:
+4
+false[Error] expected:
+true
+false[Error] expected:
+true
+false[Error] expected:
+true
+false[Error] expected:
+true
+5[Error] expected:
+0
+f1 Derived[Error] expected:
+f1 Base
