@@ -534,3 +534,19 @@ true
 0
 f1 Derived[Error] expected:
 f1 Base
+Coffee(Double,Caf,Here,NoFlavor)[Error] expected:
+Coffee(Double,Caf,Here)
+Coffee(Double,Caf,Here,NoFlavor)[Error] expected:
+Coffee(Double,Caf,Here)
+Coffee(Double,Caf,Here,NoFlavor)[Error] expected:
+Coffee(Double,Caf,Here)
+Latte(Double,Caf,ToGo,Skim)[Error] expected:
+Mocha(Double,Caf,ToGo,Skim,Choc)
+Latte(Double,Caf,ToGo,Skim)[Error] expected:
+Mocha(Double,Caf,ToGo,Skim,Choc)
+Latte(Double,Caf,ToGo,Skim)[Error] expected:
+Mocha(Double,Caf,ToGo,Skim,Choc)
+Vector(Mary Add, Zach Smith, Sally Taylor)[Error] expected:
+Vector(Person(Mary,Add,mary@add.com),Person(Zach,Smith,zach@smith.com),Person(Sally,Taylor,sally@taylor.com))
+Vector(Person(Mary,Add,mary@add.com), Person(Zach,Smith,zach@smith.com), Person(Sally,Taylor,sally@taylor.com))[Error] expected:
+Vector(Person(Mary,Add,mary@add.com),Person(Zach,Smith,zach@smith.com),Person(Sally,Taylor,sally@taylor.com))
