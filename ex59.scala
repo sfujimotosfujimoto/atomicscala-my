@@ -15,7 +15,6 @@ def max(toMax:List[Int], a:Int=0):Int = {
 
 
 
-
 val aList = List(10, 20, 45, 100, 12, 230, 444, 15, 30)
 max(aList) is 444
 
@@ -24,7 +23,6 @@ max(aList) is 444
 
 def sumIt(nums:List[Int]):Int =
   nums.reduce((total, n) => total + n)
-
 
 sumIt(List(1, 2, 3)) is 6
 sumIt(List(45, 45, 45, 60)) is 195

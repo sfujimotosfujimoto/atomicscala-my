@@ -1,4 +1,3 @@
-
 /* sfujimoto: 2017/06/26 12:43 */
 import com.atomicscala.AtomicTest._
 
@@ -30,6 +29,4 @@ v.endMonth is 8
 val tree = new TreeHouse("Oak", "48104")
 tree.name is "Oak"
 tree.zip is "48104"
-
-
 

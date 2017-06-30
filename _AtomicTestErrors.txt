@@ -550,3 +550,23 @@ Vector(Mary Add, Zach Smith, Sally Taylor)[Error] expected:
 Vector(Person(Mary,Add,mary@add.com),Person(Zach,Smith,zach@smith.com),Person(Sally,Taylor,sally@taylor.com))
 Vector(Person(Mary,Add,mary@add.com), Person(Zach,Smith,zach@smith.com), Person(Sally,Taylor,sally@taylor.com))[Error] expected:
 Vector(Person(Mary,Add,mary@add.com),Person(Zach,Smith,zach@smith.com),Person(Sally,Taylor,sally@taylor.com))
+Vector((a,q), (b,r), (c,s), (d,t))[Error] expected:
+Vector((a,q), (b,1), (c,2), (d,3))
+Vector(NumericRange a to d, NumericRange a to d, NumericRange a to d)[Error] expected:
+Vector(NumericRange(a, b, c, d), NumericRange(a, b, c, d), NumericRange(a, b, c, d))
+Set(true, false)[Error] expected:
+Vector(false, false, true, true)
+Vector(true, true, false, false)[Error] expected:
+Vector(false, false, true, true)
+Set(true, false)[Error] expected:
+Vector(false, false, true, true)
+100.0[Error] expected:
+30.0
+40.0[Error] expected:
+30.0
+MapLike.DefaultValuesIterable(3.141, 2.718, 1.618)[Error] expected:
+MapLike(3.141, 2.718, 1.618
+MapLike.DefaultValuesIterable(3.141, 2.718, 1.618)[Error] expected:
+MapLike(3.141, 2.718, 1.618)
+MapLike.DefaultValuesIterable(3.141, 2.718, 1.618)[Error] expected:
+MapLike(3.141, 2.718, 1.618)
