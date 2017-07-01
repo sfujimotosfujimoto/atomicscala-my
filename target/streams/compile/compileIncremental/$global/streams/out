@@ -1,0 +1,329 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(/Users/sfujimoto/code/Scala/AtomicScala/ScriptDemo.scala, /Users/sfujimoto/code/Scala/AtomicScala/AbstractClasses.scala, /Users/sfujimoto/code/Scala/AtomicScala/TraitInheritance.scala, /Users/sfujimoto/code/Scala/AtomicScala/GreatApe2.scala, /Users/sfujimoto/code/Scala/AtomicScala/ParameterizedReturnTypes.scala, /Users/sfujimoto/code/Scala/AtomicScala/VisibleClassArgs.scala, /Users/sfujimoto/code/Scala/AtomicScala/AbstractKeyword.scala, /Users/sfujimoto/code/Scala/AtomicScala/Comprehension.scala, /Users/sfujimoto/code/Scala/AtomicScala/Swearing.scala, /Users/sfujimoto/code/Scala/AtomicScala/ParameterizedTypes.scala, /Users/sfujimoto/code/Scala/AtomicScala/CaseClasses.scala, /Users/sfujimoto/code/Scala/AtomicScala/Tuples.scala, /Users/sfujimoto/code/Scala/AtomicScala/RecursivePrint.scala, /Users/sfujimoto/code/Scala/AtomicScala/GreatApe.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex52.scala, /Users/sfujimoto/code/Scala/AtomicScala/RemoveDuplicates.scala, /Users/sfujimoto/code/Scala/AtomicScala/Molecule.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex58.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex40.scala, /Users/sfujimoto/code/Scala/AtomicScala/ExpressionInterpolation.scala, /Users/sfujimoto/code/Scala/AtomicScala/DisplayDuckTestable.scala, /Users/sfujimoto/code/Scala/AtomicScala/House1.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex61.scala, /Users/sfujimoto/code/Scala/AtomicScala/Level.scala, /Users/sfujimoto/code/Scala/AtomicScala/AerobicExercise.scala, /Users/sfujimoto/code/Scala/AtomicScala/DisplayVector.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex54.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex28.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex46.scala, /Users/sfujimoto/code/Scala/AtomicScala/RecursiveSum.scala, /Users/sfujimoto/code/Scala/AtomicScala/Sets.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex45.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex50.scala, /Users/sfujimoto/code/Scala/AtomicScala/CollectionSums.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex43.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex42.scala, /Users/sfujimoto/code/Scala/AtomicScala/Constraint.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex-24.scala, /Users/sfujimoto/code/Scala/AtomicScala/CaseClassInterpolation.scala, /Users/sfujimoto/code/Scala/AtomicScala/SeqOperations.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex-2.scala, /Users/sfujimoto/code/Scala/AtomicScala/PatternMatchingCaseClasses.scala, /Users/sfujimoto/code/Scala/AtomicScala/SimpleMap.scala, /Users/sfujimoto/code/Scala/AtomicScala/MethodParentheses.scala, /Users/sfujimoto/code/Scala/AtomicScala/MatchExpressions.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex56.scala, /Users/sfujimoto/code/Scala/AtomicScala/Coffee.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex49.scala, /Users/sfujimoto/code/Scala/AtomicScala/DisplayDuck.scala, /Users/sfujimoto/code/Scala/AtomicScala/House2.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex-25.scala, /Users/sfujimoto/code/Scala/AtomicScala/Overloading.scala, /Users/sfujimoto/code/Scala/AtomicScala/TraitCollision.scala, /Users/sfujimoto/code/Scala/AtomicScala/Sum.scala, /Users/sfujimoto/code/Scala/AtomicScala/GardenGnome.scala, /Users/sfujimoto/code/Scala/AtomicScala/AuxiliaryInitialization.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex32.scala, /Users/sfujimoto/code/Scala/AtomicScala/Zipper.scala, /Users/sfujimoto/code/Scala/AtomicScala/MultipleClassArgs.scala, /Users/sfujimoto/code/Scala/AtomicScala/House4.scala, /Users/sfujimoto/code/Scala/AtomicScala/GreatApe3.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex34.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex-23.scala, /Users/sfujimoto/code/Scala/AtomicScala/IndexWithZip.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex47.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex55.scala, /Users/sfujimoto/code/Scala/AtomicScala/ObjectsAndMethods.scala, /Users/sfujimoto/code/Scala/AtomicScala/Solid.scala, /Users/sfujimoto/code/Scala/AtomicScala/Framework.scala, /Users/sfujimoto/code/Scala/AtomicScala/PatternMatchingWithTypes.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex36.scala, /Users/sfujimoto/code/Scala/AtomicScala/Yielding.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex30.scala, /Users/sfujimoto/code/Scala/AtomicScala/House3.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex53.scala, /Users/sfujimoto/code/Scala/AtomicScala/Ex-1.scala, /Users/sfujimoto/code/Scala/AtomicScala/Resilience.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex57.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex35.scala, /Users/sfujimoto/code/Scala/AtomicScala/ClassArg.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex38.scala, /Users/sfujimoto/code/Scala/AtomicScala/Bicycle.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex44.scala, /Users/sfujimoto/code/Scala/AtomicScala/TraitBodies.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex41.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex27.scala, /Users/sfujimoto/code/Scala/AtomicScala/House5.scala, /Users/sfujimoto/code/Scala/AtomicScala/CompiledWithArgs.scala, /Users/sfujimoto/code/Scala/AtomicScala/Brevity1.scala, /Users/sfujimoto/code/Scala/AtomicScala/ReturnBlob.scala, /Users/sfujimoto/code/Scala/AtomicScala/Polymorphism.scala, /Users/sfujimoto/code/Scala/AtomicScala/ZipMap.scala, /Users/sfujimoto/code/Scala/AtomicScala/UniformAccess.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex33.scala, /Users/sfujimoto/code/Scala/AtomicScala/TaggingTrait.scala, /Users/sfujimoto/code/Scala/AtomicScala/Reduce.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex29.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex31.scala, /Users/sfujimoto/code/Scala/AtomicScala/Compiled.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex59.scala, /Users/sfujimoto/code/Scala/AtomicScala/NamedArguments.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex-26.scala, /Users/sfujimoto/code/Scala/AtomicScala/TupleUnpacking.scala, /Users/sfujimoto/code/Scala/AtomicScala/MaltShoppe.scala, /Users/sfujimoto/code/Scala/AtomicScala/SodaFountain.scala, /Users/sfujimoto/code/Scala/AtomicScala/Materials.scala, /Users/sfujimoto/code/Scala/AtomicScala/StringInterpolation.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex39.scala, /Users/sfujimoto/code/Scala/AtomicScala/CaseUnpack.scala, /Users/sfujimoto/code/Scala/AtomicScala/Maps.scala, /Users/sfujimoto/code/Scala/AtomicScala/PetMap.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/Users/sfujimoto/code/Scala/AtomicScala/ScriptDemo.scala, /Users/sfujimoto/code/Scala/AtomicScala/AbstractClasses.scala, /Users/sfujimoto/code/Scala/AtomicScala/TraitInheritance.scala, /Users/sfujimoto/code/Scala/AtomicScala/GreatApe2.scala, /Users/sfujimoto/code/Scala/AtomicScala/ParameterizedReturnTypes.scala, /Users/sfujimoto/code/Scala/AtomicScala/VisibleClassArgs.scala, /Users/sfujimoto/code/Scala/AtomicScala/AbstractKeyword.scala, /Users/sfujimoto/code/Scala/AtomicScala/Comprehension.scala, /Users/sfujimoto/code/Scala/AtomicScala/Swearing.scala, /Users/sfujimoto/code/Scala/AtomicScala/ParameterizedTypes.scala, /Users/sfujimoto/code/Scala/AtomicScala/CaseClasses.scala, /Users/sfujimoto/code/Scala/AtomicScala/Tuples.scala, /Users/sfujimoto/code/Scala/AtomicScala/RecursivePrint.scala, /Users/sfujimoto/code/Scala/AtomicScala/GreatApe.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex52.scala, /Users/sfujimoto/code/Scala/AtomicScala/RemoveDuplicates.scala, /Users/sfujimoto/code/Scala/AtomicScala/Molecule.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex58.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex40.scala, /Users/sfujimoto/code/Scala/AtomicScala/ExpressionInterpolation.scala, /Users/sfujimoto/code/Scala/AtomicScala/DisplayDuckTestable.scala, /Users/sfujimoto/code/Scala/AtomicScala/House1.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex61.scala, /Users/sfujimoto/code/Scala/AtomicScala/Level.scala, /Users/sfujimoto/code/Scala/AtomicScala/AerobicExercise.scala, /Users/sfujimoto/code/Scala/AtomicScala/DisplayVector.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex54.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex28.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex46.scala, /Users/sfujimoto/code/Scala/AtomicScala/RecursiveSum.scala, /Users/sfujimoto/code/Scala/AtomicScala/Sets.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex45.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex50.scala, /Users/sfujimoto/code/Scala/AtomicScala/CollectionSums.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex43.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex42.scala, /Users/sfujimoto/code/Scala/AtomicScala/Constraint.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex-24.scala, /Users/sfujimoto/code/Scala/AtomicScala/CaseClassInterpolation.scala, /Users/sfujimoto/code/Scala/AtomicScala/SeqOperations.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex-2.scala, /Users/sfujimoto/code/Scala/AtomicScala/PatternMatchingCaseClasses.scala, /Users/sfujimoto/code/Scala/AtomicScala/SimpleMap.scala, /Users/sfujimoto/code/Scala/AtomicScala/MethodParentheses.scala, /Users/sfujimoto/code/Scala/AtomicScala/MatchExpressions.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex56.scala, /Users/sfujimoto/code/Scala/AtomicScala/Coffee.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex49.scala, /Users/sfujimoto/code/Scala/AtomicScala/DisplayDuck.scala, /Users/sfujimoto/code/Scala/AtomicScala/House2.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex-25.scala, /Users/sfujimoto/code/Scala/AtomicScala/Overloading.scala, /Users/sfujimoto/code/Scala/AtomicScala/TraitCollision.scala, /Users/sfujimoto/code/Scala/AtomicScala/Sum.scala, /Users/sfujimoto/code/Scala/AtomicScala/GardenGnome.scala, /Users/sfujimoto/code/Scala/AtomicScala/AuxiliaryInitialization.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex32.scala, /Users/sfujimoto/code/Scala/AtomicScala/Zipper.scala, /Users/sfujimoto/code/Scala/AtomicScala/MultipleClassArgs.scala, /Users/sfujimoto/code/Scala/AtomicScala/House4.scala, /Users/sfujimoto/code/Scala/AtomicScala/GreatApe3.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex34.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex-23.scala, /Users/sfujimoto/code/Scala/AtomicScala/IndexWithZip.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex47.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex55.scala, /Users/sfujimoto/code/Scala/AtomicScala/ObjectsAndMethods.scala, /Users/sfujimoto/code/Scala/AtomicScala/Solid.scala, /Users/sfujimoto/code/Scala/AtomicScala/Framework.scala, /Users/sfujimoto/code/Scala/AtomicScala/PatternMatchingWithTypes.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex36.scala, /Users/sfujimoto/code/Scala/AtomicScala/Yielding.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex30.scala, /Users/sfujimoto/code/Scala/AtomicScala/House3.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex53.scala, /Users/sfujimoto/code/Scala/AtomicScala/Ex-1.scala, /Users/sfujimoto/code/Scala/AtomicScala/Resilience.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex57.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex35.scala, /Users/sfujimoto/code/Scala/AtomicScala/ClassArg.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex38.scala, /Users/sfujimoto/code/Scala/AtomicScala/Bicycle.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex44.scala, /Users/sfujimoto/code/Scala/AtomicScala/TraitBodies.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex41.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex27.scala, /Users/sfujimoto/code/Scala/AtomicScala/House5.scala, /Users/sfujimoto/code/Scala/AtomicScala/CompiledWithArgs.scala, /Users/sfujimoto/code/Scala/AtomicScala/Brevity1.scala, /Users/sfujimoto/code/Scala/AtomicScala/ReturnBlob.scala, /Users/sfujimoto/code/Scala/AtomicScala/Polymorphism.scala, /Users/sfujimoto/code/Scala/AtomicScala/ZipMap.scala, /Users/sfujimoto/code/Scala/AtomicScala/UniformAccess.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex33.scala, /Users/sfujimoto/code/Scala/AtomicScala/TaggingTrait.scala, /Users/sfujimoto/code/Scala/AtomicScala/Reduce.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex29.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex31.scala, /Users/sfujimoto/code/Scala/AtomicScala/Compiled.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex59.scala, /Users/sfujimoto/code/Scala/AtomicScala/NamedArguments.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex-26.scala, /Users/sfujimoto/code/Scala/AtomicScala/TupleUnpacking.scala, /Users/sfujimoto/code/Scala/AtomicScala/MaltShoppe.scala, /Users/sfujimoto/code/Scala/AtomicScala/SodaFountain.scala, /Users/sfujimoto/code/Scala/AtomicScala/Materials.scala, /Users/sfujimoto/code/Scala/AtomicScala/StringInterpolation.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex39.scala, /Users/sfujimoto/code/Scala/AtomicScala/CaseUnpack.scala, /Users/sfujimoto/code/Scala/AtomicScala/Maps.scala, /Users/sfujimoto/code/Scala/AtomicScala/PetMap.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/sfujimoto/code/Scala/AtomicScala/ScriptDemo.scala, /Users/sfujimoto/code/Scala/AtomicScala/AbstractClasses.scala, /Users/sfujimoto/code/Scala/AtomicScala/TraitInheritance.scala, /Users/sfujimoto/code/Scala/AtomicScala/GreatApe2.scala, /Users/sfujimoto/code/Scala/AtomicScala/ParameterizedReturnTypes.scala, /Users/sfujimoto/code/Scala/AtomicScala/VisibleClassArgs.scala, /Users/sfujimoto/code/Scala/AtomicScala/AbstractKeyword.scala, /Users/sfujimoto/code/Scala/AtomicScala/Comprehension.scala, /Users/sfujimoto/code/Scala/AtomicScala/Swearing.scala, /Users/sfujimoto/code/Scala/AtomicScala/ParameterizedTypes.scala, /Users/sfujimoto/code/Scala/AtomicScala/CaseClasses.scala, /Users/sfujimoto/code/Scala/AtomicScala/Tuples.scala, /Users/sfujimoto/code/Scala/AtomicScala/RecursivePrint.scala, /Users/sfujimoto/code/Scala/AtomicScala/GreatApe.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex52.scala, /Users/sfujimoto/code/Scala/AtomicScala/RemoveDuplicates.scala, /Users/sfujimoto/code/Scala/AtomicScala/Molecule.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex58.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex40.scala, /Users/sfujimoto/code/Scala/AtomicScala/ExpressionInterpolation.scala, /Users/sfujimoto/code/Scala/AtomicScala/DisplayDuckTestable.scala, /Users/sfujimoto/code/Scala/AtomicScala/House1.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex61.scala, /Users/sfujimoto/code/Scala/AtomicScala/Level.scala, /Users/sfujimoto/code/Scala/AtomicScala/AerobicExercise.scala, /Users/sfujimoto/code/Scala/AtomicScala/DisplayVector.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex54.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex28.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex46.scala, /Users/sfujimoto/code/Scala/AtomicScala/RecursiveSum.scala, /Users/sfujimoto/code/Scala/AtomicScala/Sets.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex45.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex50.scala, /Users/sfujimoto/code/Scala/AtomicScala/CollectionSums.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex43.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex42.scala, /Users/sfujimoto/code/Scala/AtomicScala/Constraint.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex-24.scala, /Users/sfujimoto/code/Scala/AtomicScala/CaseClassInterpolation.scala, /Users/sfujimoto/code/Scala/AtomicScala/SeqOperations.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex-2.scala, /Users/sfujimoto/code/Scala/AtomicScala/PatternMatchingCaseClasses.scala, /Users/sfujimoto/code/Scala/AtomicScala/SimpleMap.scala, /Users/sfujimoto/code/Scala/AtomicScala/MethodParentheses.scala, /Users/sfujimoto/code/Scala/AtomicScala/MatchExpressions.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex56.scala, /Users/sfujimoto/code/Scala/AtomicScala/Coffee.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex49.scala, /Users/sfujimoto/code/Scala/AtomicScala/DisplayDuck.scala, /Users/sfujimoto/code/Scala/AtomicScala/House2.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex-25.scala, /Users/sfujimoto/code/Scala/AtomicScala/Overloading.scala, /Users/sfujimoto/code/Scala/AtomicScala/TraitCollision.scala, /Users/sfujimoto/code/Scala/AtomicScala/Sum.scala, /Users/sfujimoto/code/Scala/AtomicScala/GardenGnome.scala, /Users/sfujimoto/code/Scala/AtomicScala/AuxiliaryInitialization.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex32.scala, /Users/sfujimoto/code/Scala/AtomicScala/Zipper.scala, /Users/sfujimoto/code/Scala/AtomicScala/MultipleClassArgs.scala, /Users/sfujimoto/code/Scala/AtomicScala/House4.scala, /Users/sfujimoto/code/Scala/AtomicScala/GreatApe3.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex34.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex-23.scala, /Users/sfujimoto/code/Scala/AtomicScala/IndexWithZip.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex47.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex55.scala, /Users/sfujimoto/code/Scala/AtomicScala/ObjectsAndMethods.scala, /Users/sfujimoto/code/Scala/AtomicScala/Solid.scala, /Users/sfujimoto/code/Scala/AtomicScala/Framework.scala, /Users/sfujimoto/code/Scala/AtomicScala/PatternMatchingWithTypes.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex36.scala, /Users/sfujimoto/code/Scala/AtomicScala/Yielding.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex30.scala, /Users/sfujimoto/code/Scala/AtomicScala/House3.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex53.scala, /Users/sfujimoto/code/Scala/AtomicScala/Ex-1.scala, /Users/sfujimoto/code/Scala/AtomicScala/Resilience.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex57.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex35.scala, /Users/sfujimoto/code/Scala/AtomicScala/ClassArg.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex38.scala, /Users/sfujimoto/code/Scala/AtomicScala/Bicycle.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex44.scala, /Users/sfujimoto/code/Scala/AtomicScala/TraitBodies.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex41.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex27.scala, /Users/sfujimoto/code/Scala/AtomicScala/House5.scala, /Users/sfujimoto/code/Scala/AtomicScala/CompiledWithArgs.scala, /Users/sfujimoto/code/Scala/AtomicScala/Brevity1.scala, /Users/sfujimoto/code/Scala/AtomicScala/ReturnBlob.scala, /Users/sfujimoto/code/Scala/AtomicScala/Polymorphism.scala, /Users/sfujimoto/code/Scala/AtomicScala/ZipMap.scala, /Users/sfujimoto/code/Scala/AtomicScala/UniformAccess.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex33.scala, /Users/sfujimoto/code/Scala/AtomicScala/TaggingTrait.scala, /Users/sfujimoto/code/Scala/AtomicScala/Reduce.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex29.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex31.scala, /Users/sfujimoto/code/Scala/AtomicScala/Compiled.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex59.scala, /Users/sfujimoto/code/Scala/AtomicScala/NamedArguments.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex-26.scala, /Users/sfujimoto/code/Scala/AtomicScala/TupleUnpacking.scala, /Users/sfujimoto/code/Scala/AtomicScala/MaltShoppe.scala, /Users/sfujimoto/code/Scala/AtomicScala/SodaFountain.scala, /Users/sfujimoto/code/Scala/AtomicScala/Materials.scala, /Users/sfujimoto/code/Scala/AtomicScala/StringInterpolation.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex39.scala, /Users/sfujimoto/code/Scala/AtomicScala/CaseUnpack.scala, /Users/sfujimoto/code/Scala/AtomicScala/Maps.scala, /Users/sfujimoto/code/Scala/AtomicScala/PetMap.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/sfujimoto/code/Scala/AtomicScala/ScriptDemo.scala, /Users/sfujimoto/code/Scala/AtomicScala/AbstractClasses.scala, /Users/sfujimoto/code/Scala/AtomicScala/TraitInheritance.scala, /Users/sfujimoto/code/Scala/AtomicScala/GreatApe2.scala, /Users/sfujimoto/code/Scala/AtomicScala/ParameterizedReturnTypes.scala, /Users/sfujimoto/code/Scala/AtomicScala/VisibleClassArgs.scala, /Users/sfujimoto/code/Scala/AtomicScala/AbstractKeyword.scala, /Users/sfujimoto/code/Scala/AtomicScala/Comprehension.scala, /Users/sfujimoto/code/Scala/AtomicScala/Swearing.scala, /Users/sfujimoto/code/Scala/AtomicScala/ParameterizedTypes.scala, /Users/sfujimoto/code/Scala/AtomicScala/CaseClasses.scala, /Users/sfujimoto/code/Scala/AtomicScala/Tuples.scala, /Users/sfujimoto/code/Scala/AtomicScala/RecursivePrint.scala, /Users/sfujimoto/code/Scala/AtomicScala/GreatApe.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex52.scala, /Users/sfujimoto/code/Scala/AtomicScala/RemoveDuplicates.scala, /Users/sfujimoto/code/Scala/AtomicScala/Molecule.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex58.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex40.scala, /Users/sfujimoto/code/Scala/AtomicScala/ExpressionInterpolation.scala, /Users/sfujimoto/code/Scala/AtomicScala/DisplayDuckTestable.scala, /Users/sfujimoto/code/Scala/AtomicScala/House1.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex61.scala, /Users/sfujimoto/code/Scala/AtomicScala/Level.scala, /Users/sfujimoto/code/Scala/AtomicScala/AerobicExercise.scala, /Users/sfujimoto/code/Scala/AtomicScala/DisplayVector.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex54.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex28.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex46.scala, /Users/sfujimoto/code/Scala/AtomicScala/RecursiveSum.scala, /Users/sfujimoto/code/Scala/AtomicScala/Sets.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex45.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex50.scala, /Users/sfujimoto/code/Scala/AtomicScala/CollectionSums.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex43.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex42.scala, /Users/sfujimoto/code/Scala/AtomicScala/Constraint.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex-24.scala, /Users/sfujimoto/code/Scala/AtomicScala/CaseClassInterpolation.scala, /Users/sfujimoto/code/Scala/AtomicScala/SeqOperations.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex-2.scala, /Users/sfujimoto/code/Scala/AtomicScala/PatternMatchingCaseClasses.scala, /Users/sfujimoto/code/Scala/AtomicScala/SimpleMap.scala, /Users/sfujimoto/code/Scala/AtomicScala/MethodParentheses.scala, /Users/sfujimoto/code/Scala/AtomicScala/MatchExpressions.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex56.scala, /Users/sfujimoto/code/Scala/AtomicScala/Coffee.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex49.scala, /Users/sfujimoto/code/Scala/AtomicScala/DisplayDuck.scala, /Users/sfujimoto/code/Scala/AtomicScala/House2.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex-25.scala, /Users/sfujimoto/code/Scala/AtomicScala/Overloading.scala, /Users/sfujimoto/code/Scala/AtomicScala/TraitCollision.scala, /Users/sfujimoto/code/Scala/AtomicScala/Sum.scala, /Users/sfujimoto/code/Scala/AtomicScala/GardenGnome.scala, /Users/sfujimoto/code/Scala/AtomicScala/AuxiliaryInitialization.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex32.scala, /Users/sfujimoto/code/Scala/AtomicScala/Zipper.scala, /Users/sfujimoto/code/Scala/AtomicScala/MultipleClassArgs.scala, /Users/sfujimoto/code/Scala/AtomicScala/House4.scala, /Users/sfujimoto/code/Scala/AtomicScala/GreatApe3.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex34.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex-23.scala, /Users/sfujimoto/code/Scala/AtomicScala/IndexWithZip.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex47.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex55.scala, /Users/sfujimoto/code/Scala/AtomicScala/ObjectsAndMethods.scala, /Users/sfujimoto/code/Scala/AtomicScala/Solid.scala, /Users/sfujimoto/code/Scala/AtomicScala/Framework.scala, /Users/sfujimoto/code/Scala/AtomicScala/PatternMatchingWithTypes.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex36.scala, /Users/sfujimoto/code/Scala/AtomicScala/Yielding.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex30.scala, /Users/sfujimoto/code/Scala/AtomicScala/House3.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex53.scala, /Users/sfujimoto/code/Scala/AtomicScala/Ex-1.scala, /Users/sfujimoto/code/Scala/AtomicScala/Resilience.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex57.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex35.scala, /Users/sfujimoto/code/Scala/AtomicScala/ClassArg.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex38.scala, /Users/sfujimoto/code/Scala/AtomicScala/Bicycle.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex44.scala, /Users/sfujimoto/code/Scala/AtomicScala/TraitBodies.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex41.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex27.scala, /Users/sfujimoto/code/Scala/AtomicScala/House5.scala, /Users/sfujimoto/code/Scala/AtomicScala/CompiledWithArgs.scala, /Users/sfujimoto/code/Scala/AtomicScala/Brevity1.scala, /Users/sfujimoto/code/Scala/AtomicScala/ReturnBlob.scala, /Users/sfujimoto/code/Scala/AtomicScala/Polymorphism.scala, /Users/sfujimoto/code/Scala/AtomicScala/ZipMap.scala, /Users/sfujimoto/code/Scala/AtomicScala/UniformAccess.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex33.scala, /Users/sfujimoto/code/Scala/AtomicScala/TaggingTrait.scala, /Users/sfujimoto/code/Scala/AtomicScala/Reduce.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex29.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex31.scala, /Users/sfujimoto/code/Scala/AtomicScala/Compiled.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex59.scala, /Users/sfujimoto/code/Scala/AtomicScala/NamedArguments.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex-26.scala, /Users/sfujimoto/code/Scala/AtomicScala/TupleUnpacking.scala, /Users/sfujimoto/code/Scala/AtomicScala/MaltShoppe.scala, /Users/sfujimoto/code/Scala/AtomicScala/SodaFountain.scala, /Users/sfujimoto/code/Scala/AtomicScala/Materials.scala, /Users/sfujimoto/code/Scala/AtomicScala/StringInterpolation.scala, /Users/sfujimoto/code/Scala/AtomicScala/ex39.scala, /Users/sfujimoto/code/Scala/AtomicScala/CaseUnpack.scala, /Users/sfujimoto/code/Scala/AtomicScala/Maps.scala, /Users/sfujimoto/code/Scala/AtomicScala/PetMap.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 111 sources: invalidated sources (111) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 111 Scala sources to /Users/sfujimoto/code/Scala/AtomicScala/target/scala-2.10/classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.15:component from component compiler for Scala 2.10.6[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.15:component from component compiler for Scala 2.10.6[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 4fdf6982, interfacing (CompilerInterface) with Scala compiler version 2.10.6[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/classes:/Users/sfujimoto/.sbt/boot/scala-2.10.6/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/sfujimoto/code/Scala/AtomicScala/target/scala-2.10/classes[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/AbstractClasses.scala:21: expected class or object definition[0m
+[0m[[31merror[0m] [0m(new Duck).templateMethod is "The Duck goes Quack"[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/AbstractClasses.scala:22: expected class or object definition[0m
+[0m[[31merror[0m] [0m(new Cow).templateMethod is "The Cow goes Moo"[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/AerobicExercise.scala:19: expected class or object definition[0m
+[0m[[31merror[0m] [0mval bob = new Exerciser(44)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/AerobicExercise.scala:20: expected class or object definition[0m
+[0m[[31merror[0m] [0mbob.isAerobic(180) is true[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/AerobicExercise.scala:21: expected class or object definition[0m
+[0m[[31merror[0m] [0mbob.isAerobic(80) is false[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/AerobicExercise.scala:22: expected class or object definition[0m
+[0m[[31merror[0m] [0mbob.minAerobic is 88.0[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/AuxiliaryInitialization.scala:18: expected class or object definition[0m
+[0m[[31merror[0m] [0mval h = new Home("888 N. Main St.", "KS", "66632", "Metropolis")[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/AuxiliaryInitialization.scala:19: expected class or object definition[0m
+[0m[[31merror[0m] [0mh.address is "888 N. Main St."[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/AuxiliaryInitialization.scala:20: expected class or object definition[0m
+[0m[[31merror[0m] [0mh.state is "KS"[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/AuxiliaryInitialization.scala:21: expected class or object definition[0m
+[0m[[31merror[0m] [0mh.name is "Metropolis"[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/AuxiliaryInitialization.scala:22: expected class or object definition[0m
+[0m[[31merror[0m] [0mh is "Metropolis: 888 N. Main St., KS 66632"[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/AuxiliaryInitialization.scala:24: expected class or object definition[0m
+[0m[[31merror[0m] [0mval v = new VacationHouse("KS", "66632", 6, 8)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/AuxiliaryInitialization.scala:25: expected class or object definition[0m
+[0m[[31merror[0m] [0mv.state is "KS"[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/AuxiliaryInitialization.scala:26: expected class or object definition[0m
+[0m[[31merror[0m] [0mv.startMonth is 6[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/AuxiliaryInitialization.scala:27: expected class or object definition[0m
+[0m[[31merror[0m] [0mv.endMonth is 8[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/AuxiliaryInitialization.scala:29: expected class or object definition[0m
+[0m[[31merror[0m] [0mval tree = new TreeHouse("Oak", "48104")[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/AuxiliaryInitialization.scala:30: expected class or object definition[0m
+[0m[[31merror[0m] [0mtree.name is "Oak"[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/AuxiliaryInitialization.scala:31: expected class or object definition[0m
+[0m[[31merror[0m] [0mtree.zip is "48104"[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Bicycle.scala:4: expected class or object definition[0m
+[0m[[31merror[0m] [0mval forTwo = Bicycle(2)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Bicycle.scala:5: expected class or object definition[0m
+[0m[[31merror[0m] [0mforTwo is "Bicycle(2)"[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Bicycle.scala:8: expected class or object definition[0m
+[0m[[31merror[0m] [0mval fancy = new Surrey("fringe on top")[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Bicycle.scala:9: expected class or object definition[0m
+[0m[[31merror[0m] [0mprintln(fancy)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Bicycle.scala:15: expected class or object definition[0m
+[0m[[31merror[0m] [0mval fancy2 = new Surrey2("fringe on top")[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Bicycle.scala:16: expected class or object definition[0m
+[0m[[31merror[0m] [0mfancy2 is "Surrey with the fringe on top"[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Brevity1.scala:3: expected class or object definition[0m
+[0m[[31merror[0m] [0mdef filterWithYield1([0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Brevity1.scala:9: expected class or object definition[0m
+[0m[[31merror[0m] [0mval v = Vector(1,2,3,5,6,7,8,10, 13,14,17)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Brevity1.scala:10: expected class or object definition[0m
+[0m[[31merror[0m] [0mfilterWithYield1(v) is Vector(1,3,5,7)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/CaseClassInterpolation.scala:5: expected class or object definition[0m
+[0m[[31merror[0m] [0ms"""${new Sky("Blue")}""" is "Sky(Blue)"[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/CaseClasses.scala:4: expected class or object definition[0m
+[0m[[31merror[0m] [0mval dog1 = Dog("Henry")[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/CaseClasses.scala:5: expected class or object definition[0m
+[0m[[31merror[0m] [0mval dog2 = Dog("Cleo")[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/CaseClasses.scala:6: expected class or object definition[0m
+[0m[[31merror[0m] [0mval dog = Vector(dog1, dog2)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/CaseClasses.scala:8: expected class or object definition[0m
+[0m[[31merror[0m] [0mdog is Vector(Dog("Henry"), Dog("Cleo"))[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/CaseClasses.scala:11: expected class or object definition[0m
+[0m[[31merror[0m] [0mval cats = Vector(Cat("Miffy", 3), Cat("Rags", 2))[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/CaseClasses.scala:13: expected class or object definition[0m
+[0m[[31merror[0m] [0mcats is "Vector(Cat(Miffy,3), Cat(Rags,2))"[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/CaseUnpack.scala:4: expected class or object definition[0m
+[0m[[31merror[0m] [0mval empA = Employee("Bob", 1130)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/CaseUnpack.scala:5: expected class or object definition[0m
+[0m[[31merror[0m] [0mval Employee(nm, id) = empA[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/CaseUnpack.scala:6: expected class or object definition[0m
+[0m[[31merror[0m] [0mnm is "Bob"[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/CaseUnpack.scala:7: expected class or object definition[0m
+[0m[[31merror[0m] [0mid is 1130[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/ClassArg.scala:8: expected class or object definition[0m
+[0m[[31merror[0m] [0mval ca = new ClassArg(19)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/ClassArg.scala:9: expected class or object definition[0m
+[0m[[31merror[0m] [0mca.f() is 190[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Coffee.scala:35: expected class or object definition[0m
+[0m[[31merror[0m] [0mval usual = new Coffee[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Coffee.scala:36: expected class or object definition[0m
+[0m[[31merror[0m] [0musual.result is "HereCup shot shot "[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Coffee.scala:37: expected class or object definition[0m
+[0m[[31merror[0m] [0mval mocha = new Coffee(decaf = true, toGo = true, syrup = "Chocolate")[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Coffee.scala:38: expected class or object definition[0m
+[0m[[31merror[0m] [0mmocha.result is "ToGoCup decaf shot decaf shot Chocolate"[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/CollectionSums.scala:4: expected class or object definition[0m
+[0m[[31merror[0m] [0mList(10, 20, 30, 40, 50).sum is 150[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/CollectionSums.scala:5: expected class or object definition[0m
+[0m[[31merror[0m] [0mVector(10, 20, 30, 40, 50).sum is 150[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/CollectionSums.scala:6: expected class or object definition[0m
+[0m[[31merror[0m] [0mSeq(10, 20, 30, 40, 50).sum is 150[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/CollectionSums.scala:7: expected class or object definition[0m
+[0m[[31merror[0m] [0m(10 to 50 by 10).sum is 150[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Comprehension.scala:3: expected class or object definition[0m
+[0m[[31merror[0m] [0mdef evenGT5(v:Vector[Int]):Vector[Int] = {[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Comprehension.scala:13: expected class or object definition[0m
+[0m[[31merror[0m] [0mval v = Vector(1,2,3,5,6,7,8,10,13,14,17)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Comprehension.scala:14: expected class or object definition[0m
+[0m[[31merror[0m] [0mevenGT5(v) is Vector(6, 8, 10, 14)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Constraint.scala:8: expected class or object definition[0m
+[0m[[31merror[0m] [0mdef callF[T <: WithF](t:T, n:Int) = t.f(n)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Constraint.scala:10: expected class or object definition[0m
+[0m[[31merror[0m] [0mcallF(new WithF, 2) is 22[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Constraint.scala:11: expected class or object definition[0m
+[0m[[31merror[0m] [0mcallF(new WithF {[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/DisplayDuck.scala:1: expected class or object definition[0m
+[0m[[31merror[0m] [0mval duck = "Duck".toVector[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/DisplayDuck.scala:3: expected class or object definition[0m
+[0m[[31merror[0m] [0mduck.foreach(n => println("> " + n))[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/DisplayDuckTestable.scala:3: expected class or object definition[0m
+[0m[[31merror[0m] [0mvar s = ""[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/DisplayDuckTestable.scala:4: expected class or object definition[0m
+[0m[[31merror[0m] [0mval duck = "Duck".toVector[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/DisplayDuckTestable.scala:5: expected class or object definition[0m
+[0m[[31merror[0m] [0mduck.foreach(n => s = s + n + ":")[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/DisplayDuckTestable.scala:6: expected class or object definition[0m
+[0m[[31merror[0m] [0ms is "D:u:c:k:"[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/DisplayVector.scala:2: expected class or object definition[0m
+[0m[[31merror[0m] [0mdef show(n:Int):Unit = { println("> " + n) }[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/DisplayVector.scala:3: expected class or object definition[0m
+[0m[[31merror[0m] [0mval v = Vector(1, 2, 3, 4)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/DisplayVector.scala:4: expected class or object definition[0m
+[0m[[31merror[0m] [0mv.foreach(show)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Ex-1.scala:3: expected class or object definition[0m
+[0m[[31merror[0m] [0mprintln("////  1")[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Ex-1.scala:10: expected class or object definition[0m
+[0m[[31merror[0m] [0mval family1 = new Family("Mom", "Dad", "Sally", "Dick")[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Ex-1.scala:11: expected class or object definition[0m
+[0m[[31merror[0m] [0mfamily1.familySize() is 4[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Ex-1.scala:12: expected class or object definition[0m
+[0m[[31merror[0m] [0mval family2 = new Family("Dad", "Mom", "Harry")[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Ex-1.scala:13: expected class or object definition[0m
+[0m[[31merror[0m] [0mfamily2.familySize() is 3[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Ex-1.scala:17: expected class or object definition[0m
+[0m[[31merror[0m] [0mprintln("////  2")[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Ex-1.scala:29: expected class or object definition[0m
+[0m[[31merror[0m] [0mval family3 = new FlexibleFamily("Mom", "Dad", "Sally", "Dick")[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Ex-1.scala:30: expected class or object definition[0m
+[0m[[31merror[0m] [0mfamily3.familySize() is 4[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Ex-1.scala:31: expected class or object definition[0m
+[0m[[31merror[0m] [0mval family4 = new FlexibleFamily("Dad", "Mom", "Harry")[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Ex-1.scala:32: expected class or object definition[0m
+[0m[[31merror[0m] [0mfamily4.familySize() is 3[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Ex-1.scala:34: expected class or object definition[0m
+[0m[[31merror[0m] [0mval familyNoKids = new FlexibleFamily("Mom", "Dad")[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Ex-1.scala:35: expected class or object definition[0m
+[0m[[31merror[0m] [0mfamilyNoKids.familySize() is 2[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Ex-1.scala:37: expected class or object definition[0m
+[0m[[31merror[0m] [0mprintln("////  3")[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Ex-1.scala:41: expected class or object definition[0m
+[0m[[31merror[0m] [0mval familyNoKids1 = new FlexibleFamily("Mom", "Dad")[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Ex-1.scala:42: expected class or object definition[0m
+[0m[[31merror[0m] [0mfamilyNoKids1.familySize() is 2[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Ex-1.scala:44: expected class or object definition[0m
+[0m[[31merror[0m] [0mprintln("////  8")[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Ex-1.scala:61: expected class or object definition[0m
+[0m[[31merror[0m] [0mval cup5 = new Cup5(0)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Ex-1.scala:62: expected class or object definition[0m
+[0m[[31merror[0m] [0mcup5.add(20, 30, 50, 20, 10, -10, -40, 10, 50) is 100[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Ex-1.scala:63: expected class or object definition[0m
+[0m[[31merror[0m] [0mcup5.add(10, 10, -10, 10, 90, 70, -70) is 30[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Ex-1.scala:65: expected class or object definition[0m
+[0m[[31merror[0m] [0mprintln("////  9")[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Ex-1.scala:67: expected class or object definition[0m
+[0m[[31merror[0m] [0m  def squareThem(arg:Int*) = {[0m
+[0m[[31merror[0m] [0m  ^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Ex-1.scala:75: expected class or object definition[0m
+[0m[[31merror[0m] [0msquareThem(2) is 4[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Ex-1.scala:76: expected class or object definition[0m
+[0m[[31merror[0m] [0msquareThem(2, 4) is 20[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Ex-1.scala:77: expected class or object definition[0m
+[0m[[31merror[0m] [0msquareThem(1, 2, 4) is 21[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/ExpressionInterpolation.scala:3: expected class or object definition[0m
+[0m[[31merror[0m] [0mdef f(n:Int):Int = { n * 11 }[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/ExpressionInterpolation.scala:5: expected class or object definition[0m
+[0m[[31merror[0m] [0ms"f(7) is ${f(7)}!" is "f(7) is 77!"[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Framework.scala:12: expected class or object definition[0m
+[0m[[31merror[0m] [0mdef operation(impl:Framework) = impl.templateMethod[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/Framework.scala:20: expected class or object definition[0m
+[0m[[31merror[0m] [0moperation(new Implementation) is 44.71828[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/GardenGnome.scala:25: expected class or object definition[0m
+[0m[[31merror[0m] [0mnew GardenGnome(20.0, 110.0, false).show() is "20.0 110.0 false true"[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/GardenGnome.scala:26: expected class or object definition[0m
+[0m[[31merror[0m] [0mnew GardenGnome("Bob").show() is "15.0 100.0 true true"[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/GreatApe.scala:12: expected class or object definition[0m
+[0m[[31merror[0m] [0mdef display(ape:GreatApe) = s"weight: ${ape.weight} age: ${ape.age}"[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/GreatApe.scala:13: expected class or object definition[0m
+[0m[[31merror[0m] [0mdisplay(new GreatApe) is "weight: 100.0 age: 12"[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/GreatApe.scala:14: expected class or object definition[0m
+[0m[[31merror[0m] [0mdisplay(new Bonobo) is "weight: 100.0 age: 12"[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/GreatApe.scala:15: expected class or object definition[0m
+[0m[[31merror[0m] [0mdisplay(new Chimpanzee) is "weight: 100.0 age: 12"[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/GreatApe.scala:16: expected class or object definition[0m
+[0m[[31merror[0m] [0mdisplay(new BonoboB) is "weight: 100.0 age: 12"[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/GreatApe2.scala:12: expected class or object definition[0m
+[0m[[31merror[0m] [0mdef display(ape:GreatApe) = s"weight: ${ape.weight} age: ${ape.age}"[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/Users/sfujimoto/code/Scala/AtomicScala/GreatApe2.scala:14: expected class or object definition[0m
+[0m[[31merror[0m] [0mdisplay(new GreatApe(100, 12)) is "weight: 100.0 age: 12"[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m951 errors found[0m
+[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
+[0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) Compilation failed[0m

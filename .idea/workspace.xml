@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f257c850-ee42-4f23-8148-8ed887141bcd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../JS/MongoDB/mongo-udemy/users" afterPath="$PROJECT_DIR$/../../JS/MongoDB/mongo-udemy/users" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Java/sprhb" afterPath="$PROJECT_DIR$/../../Java/sprhb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -807,7 +806,7 @@
       <workItem from="1498911835639" duration="373000" />
       <workItem from="1498912242155" duration="254000" />
       <workItem from="1498912526235" duration="347000" />
-      <workItem from="1498912904933" duration="791000" />
+      <workItem from="1498912904933" duration="804000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;~61&quot;">
       <created>1498862918545</created>
@@ -820,7 +819,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47808000" />
+    <option name="totallyTimeSpent" value="47821000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
