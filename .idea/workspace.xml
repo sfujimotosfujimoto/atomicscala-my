@@ -1,22 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f257c850-ee42-4f23-8148-8ed887141bcd" name="Default" comment="~63">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/atomicscala/AtomicTest$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/atomicscala/AtomicTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/atomicscala/Logging.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/atomicscala/Name$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/atomicscala/reporterr/Fail$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/atomicscala/reporterr/Fail.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/atomicscala/reporterr/FailMsg.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/yoururl/libraryname/X.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Name.scala" />
+    <list default="true" id="f257c850-ee42-4f23-8148-8ed887141bcd" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../JS/MongoDB/mongo-udemy/users" afterPath="$PROJECT_DIR$/../../JS/MongoDB/mongo-udemy/users" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Java/sprhb" afterPath="$PROJECT_DIR$/../../Java/sprhb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/AtomicScala.iml" afterPath="$PROJECT_DIR$/.idea/AtomicScala.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PetMap.scala" afterPath="$PROJECT_DIR$/PetMap.scala" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -86,8 +75,8 @@
       <file leaf-file-name="Name.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Name.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+            <state relative-caret-position="342">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -818,7 +807,7 @@
       <workItem from="1498911835639" duration="373000" />
       <workItem from="1498912242155" duration="254000" />
       <workItem from="1498912526235" duration="347000" />
-      <workItem from="1498912904933" duration="669000" />
+      <workItem from="1498912904933" duration="791000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;~61&quot;">
       <created>1498862918545</created>
@@ -831,7 +820,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47686000" />
+    <option name="totallyTimeSpent" value="47808000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -844,10 +833,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="22" width="718" height="878" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.55657893" sideWeight="0.50591713" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="REPL" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -861,7 +851,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.55657893" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.55657893" sideWeight="0.49408284" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1246,8 +1236,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Name.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        <state relative-caret-position="342">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
