@@ -1,5 +1,6 @@
 /*  / sfujimoto: 2017/07/01 7:47 */
 import com.atomicscala.AtomicTest._
+
 import com.atomicscala.Name
 
 trait Pet extends Name
